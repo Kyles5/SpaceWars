@@ -1,0 +1,1 @@
+c:\users\kyle\documents\visual studio 2013\Projects\SpaceWars\SpaceWars\SpaceWarsContent\obj\x86\Debug\SpaceWarsContent.contentprojResolveAssemblyReference.cache

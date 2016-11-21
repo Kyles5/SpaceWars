@@ -1,0 +1,13 @@
+c:\users\kyle\documents\visual studio 2013\Projects\SpaceWars\SpaceWars\SpaceWars\obj\x86\Debug\SpaceWars.csprojResolveAssemblyReference.cache
+c:\users\kyle\documents\visual studio 2013\Projects\SpaceWars\SpaceWars\SpaceWars\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\kyle\documents\visual studio 2013\Projects\SpaceWars\SpaceWars\SpaceWars\bin\x86\Debug\SpaceWars.exe
+c:\users\kyle\documents\visual studio 2013\Projects\SpaceWars\SpaceWars\SpaceWars\bin\x86\Debug\SpaceWars.pdb
+c:\users\kyle\documents\visual studio 2013\Projects\SpaceWars\SpaceWars\SpaceWars\obj\x86\Debug\SpaceWars.exe
+c:\users\kyle\documents\visual studio 2013\Projects\SpaceWars\SpaceWars\SpaceWars\obj\x86\Debug\SpaceWars.pdb
+C:\Users\Kyle\Documents\Visual Studio 2013\Projects\SpaceWars\SpaceWars\SpaceWars\bin\x86\Debug\Content\background.xnb
+C:\Users\Kyle\Documents\Visual Studio 2013\Projects\SpaceWars\SpaceWars\SpaceWars\bin\x86\Debug\Content\usership.xnb
+C:\Users\Kyle\Documents\Visual Studio 2013\Projects\SpaceWars\SpaceWars\SpaceWars\bin\x86\Debug\Content\missile.xnb
+C:\Users\Kyle\Documents\Visual Studio 2013\Projects\SpaceWars\SpaceWars\SpaceWars\bin\x86\Debug\Content\enemyBasic.xnb
+C:\Users\Kyle\Documents\Visual Studio 2013\Projects\SpaceWars\SpaceWars\SpaceWars\bin\x86\Debug\Content\font.xnb
+C:\Users\Kyle\Documents\Visual Studio 2013\Projects\SpaceWars\SpaceWars\SpaceWars\bin\x86\Debug\Content\enemyTwo.xnb
+C:\Users\Kyle\Documents\Visual Studio 2013\Projects\SpaceWars\SpaceWars\SpaceWars\bin\x86\Debug\Content\enemyThree.xnb

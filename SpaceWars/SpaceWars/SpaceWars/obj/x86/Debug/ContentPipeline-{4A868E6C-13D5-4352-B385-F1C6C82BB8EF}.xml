@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>background.jpg</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\Documents\Visual Studio 2013\Projects\SpaceWars\SpaceWars\SpaceWars\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2016-11-10T17:10:13.4666546-05:00</Time>
+    </Item>
+    <Item>
+      <Source>usership.png</Source>
+      <Name>usership</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\Documents\Visual Studio 2013\Projects\SpaceWars\SpaceWars\SpaceWars\bin\x86\Debug\Content\usership.xnb</Output>
+      <Time>2016-11-10T17:40:03.8532823-05:00</Time>
+    </Item>
+    <Item>
+      <Source>missile.png</Source>
+      <Name>missile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\Documents\Visual Studio 2013\Projects\SpaceWars\SpaceWars\SpaceWars\bin\x86\Debug\Content\missile.xnb</Output>
+      <Time>2016-11-11T16:40:58.2132804-05:00</Time>
+    </Item>
+    <Item>
+      <Source>enemyBasic.png</Source>
+      <Name>enemyBasic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\Documents\Visual Studio 2013\Projects\SpaceWars\SpaceWars\SpaceWars\bin\x86\Debug\Content\enemyBasic.xnb</Output>
+      <Time>2016-11-11T17:45:34.0556247-05:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\Documents\Visual Studio 2013\Projects\SpaceWars\SpaceWars\SpaceWars\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2016-11-12T10:16:15.4877612-05:00</Time>
+    </Item>
+    <Item>
+      <Source>enemyTwo.png</Source>
+      <Name>enemyTwo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\Documents\Visual Studio 2013\Projects\SpaceWars\SpaceWars\SpaceWars\bin\x86\Debug\Content\enemyTwo.xnb</Output>
+      <Time>2016-11-12T19:41:38.6409567-05:00</Time>
+    </Item>
+    <Item>
+      <Source>enemyThree.png</Source>
+      <Name>enemyThree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\Documents\Visual Studio 2013\Projects\SpaceWars\SpaceWars\SpaceWars\bin\x86\Debug\Content\enemyThree.xnb</Output>
+      <Time>2016-11-12T20:46:25.6367666-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{4A868E6C-13D5-4352-B385-F1C6C82BB8EF}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Kyle\Documents\Visual Studio 2013\Projects\SpaceWars\SpaceWars\SpaceWarsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Kyle\Documents\Visual Studio 2013\Projects\SpaceWars\SpaceWars\SpaceWars\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Kyle\Documents\Visual Studio 2013\Projects\SpaceWars\SpaceWars\SpaceWars\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Kyle\Documents\Visual Studio 2013\Projects\SpaceWars\SpaceWars\SpaceWars\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-10-26T23:21:24.4290809-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
